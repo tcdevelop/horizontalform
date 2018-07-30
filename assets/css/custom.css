@@ -234,3 +234,91 @@ section#register.form-control:focus {
     padding: 15px 30px;
 }
 
+.social{
+    background: #fff;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.social .heading > h4{
+    text-align: center;
+    font-size: 30px;
+    color: C9C9Ca;
+    text-transform: uppercase;
+    font-family: segio-script
+}
+.social .social-links{
+    padding: 50px;
+    text-align: center
+}
+.social .social-links .social-icons{
+    font-size: 30px;
+    background: #FFF;
+    color: #000000;
+    padding: 20px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border:1px solid #6161FF;
+    line-height: 55px
+}
+.services-container .heading{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.services-container .heading > h3{
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+.heading hr{
+    width: 150px;
+    height: 2px;
+}
+.services-container{
+    padding: 6em 0;
+    background: url(../../assets/images/services.jpg);
+    background-size: cover
+}
+.services-container .services{
+    padding-top: 50px;
+    padding-bottom:50px;
+    text-align: center;
+    color: #FFF;
+    display: inline-block
+}
+.services-container .services .service-icons{
+    border: 1px solid #6161FF;
+    width: 100px;
+     height: 100px;
+     margin: 0 auto;
+     line-height: 120px
+}
+.services-container .info p{
+    padding-top: 10px;
+}
+.services-container .info span{
+    width: 20%;
+    height: 1%;
+    background: #6161FF;
+    position: absolute;
+    text-align: center;
+    left:40%;
+}
+
+.sub .heading{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-bottom; 50px
+}
+.sub .subscribe-form{
+    padding: 30px;
+    margin:0 auto;
+}
+.subscribe-form .form-group > input[type="email"]{padding: 24px; border-radius: 0px}
+
+footer{padding: 50px; background: #000}
+footer div.footer p{color:#fff}
+
+
